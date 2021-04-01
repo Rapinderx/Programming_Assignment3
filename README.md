@@ -1,6 +1,6 @@
 # Programming_Assignment3
 
-#CODE BOOK
+## CODE BOOK
 
 The run_analysis.R script performs the data preparation and then followed by the 5 steps required as described in the course project’s definition.
 
@@ -52,7 +52,7 @@ _contains train data of activities’code labels_
 
 
 
-#SCRIPT EXPLANATION: run_analysis.R
+## SCRIPT EXPLANATION: run_analysis.R
 
 run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 * Merges the training and the test sets to create one data set.
